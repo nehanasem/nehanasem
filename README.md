@@ -25,6 +25,12 @@ I'm passionate about **Machine Learning**, **Computer Vision**, and **Trustworth
 - **Deepfake Generation, Detection, and Prevention**
   - AI-powered web platform integrating deepfake creation, detection, and prevention using Deep Learning and Computer Vision.
 
+## 📫 Connect with Me
+
+- 📧 Email: neha.arooj8254@gmail.com
+- 💼 LinkedIn: (Coming Soon)
+  
 ---
+
 
 *"Learning never exhausts the mind."* — Leonardo da Vinci
