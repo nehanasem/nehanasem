@@ -28,7 +28,7 @@ I'm passionate about **Machine Learning**, **Computer Vision**, and **Trustworth
 ## 📫 Connect with Me
 
 - 📧 Email: neha.arooj8254@gmail.com
-- 💼 LinkedIn: (Coming Soon)
+- 💼 LinkedIn: https://www.linkedin.com/in/neha-arooj/
   
 ---
 
